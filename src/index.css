@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nmc-blue: #004c6e;
+  --color-nmc-blue-dark: #003750;
+  --color-nmc-blue-light: #e6f1f5;
+  --color-nmc-blue-muted: #d1e5ee;
+  --color-nmc-blue-border: #9ec5d6;
+
+  --color-nmc-green: #0e6537;
+  --color-nmc-green-dark: #094726;
+  --color-nmc-green-light: #e8f5ee;
+  --color-nmc-green-muted: #c8e8d5;
+  --color-nmc-green-border: #97d4b0;
+}

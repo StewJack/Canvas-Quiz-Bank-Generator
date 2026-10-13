@@ -1,0 +1,6 @@
+{
+  "name": "NMC Canvas Quiz Generator (QTI & Blackboard)",
+  "description": "Northwestern Michigan College official LMS quiz generator. Transform course materials into Canvas-ready QTI and Blackboard packages for nmc.edu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
